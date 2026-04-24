@@ -19,12 +19,11 @@ AI tool that analyzes resume and compares it with job description to find skill 
 - Streamlit
 - PyPDF2
 - Matplotlib
-- HTML/CSS
+- CSS
 
 ## 📸 Demo
 
-(Add screenshot here)
-## 📸 Demo
+
 
 ### Home Page
 ![Home](images/home.png)
